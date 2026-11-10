@@ -1,0 +1,27 @@
+2.3 Project Scope (A2)
+
+This project focuses on improving the UI/UX of the existing UiTM uFuture platform for students. 
+The proposed enhancements cover four main pages and will be demonstrated through an interactive prototype.
+
+In-Scope
+
+1. Academic Dashboard (New Page)
+A new dashboard will be designed to display pending assignments, upcoming deadlines, task priority labels, and attendance reminders. 
+It will also provide quick navigation to other academic pages.
+
+2. My Courses (Redesigned Page)
+The My Courses page will be redesigned with clearer course cards, pending assignment counts, and nearest deadlines. 
+Course search and sorting options will also be included.
+
+3. Assignment (Redesigned Page)
+The Assignment page will present assignments from different courses in one view, including deadlines, time remaining, priority labels, 
+and submission statuses. Search and filter options will help students find specific assignments.
+
+4. Attendance (Redesigned Page)
+The Attendance page will display attendance summaries, check-in statuses, reminders, and closing times when available. 
+Students will also be able to filter attendance by course and navigate to the existing check-in page.
+
+Out-of-Scope
+This project excludes full system development, backend and database integration, modifications to the existing uFuture platform, 
+lecturer and administrator interfaces, real-time notifications, intelligent prioritization algorithms, and live student data integration.
+All proposed features will be demonstrated through UI/UX designs and an interactive prototype using sample academic data.
