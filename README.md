@@ -45,4 +45,4 @@ User Experience (UX) Design, supported by user-centred design, wireframing, usab
 Academic proposal and documentation. No system implementation is included.
 
 ## Author
-Aleeya — Computer Science Student, Universiti Teknologi MARA (UiTM).
+Aleeya Nuriena Binti Mohd Fauzi  — Computer Science Student, Universiti Teknologi MARA (UiTM).
