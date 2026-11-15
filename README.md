@@ -3,7 +3,7 @@
 
 CSC649 INDIVIDUAL ASSIGNMENT 1
 
-# Proposed Enhancement of Assignment Tracking and Attendance Monitoring in UiTM uFuture Using a Rule-Based Expert System
+# Enhancement of Assignment Tracking and Attendance Monitoring in UiTM uFuture Using a Rule-Based Expert System
 
 ## Project Overview
 
@@ -17,7 +17,7 @@ Students may face difficulties identifying urgent assignments and monitoring att
 
 The proposed enhancement aims to provide a centralized Academic Dashboard with rule-based assignment priority classifications and attendance reminders.
 
-## Proposed Enhancements
+##  Enhancements
 
 - **Academic Dashboard:** Displays pending assignments, deadlines, rule-based priority labels, and attendance reminders.
 - **My Courses:** Displays course cards with pending tasks and upcoming deadlines.
